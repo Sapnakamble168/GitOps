@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: sapnakamble/kubernetes:f8a707ae4667cf6212ab8e636eb46c5180992d0b
+          image: sapnakamble/kubernetes:7086754bb61a8c3b5b832c6d625923b8725c6f54
           ports:
             - containerPort: 3000
           env:
